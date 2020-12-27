@@ -3,9 +3,9 @@ import 'dart:io';
 class AdManager {
   static String get appId {
     if (Platform.isAndroid) {
-      return "ca-app-pub-4641579323652872~3139994033";
+      return "ca-app-pub-7353181874904121~9156964823";
     } else if (Platform.isIOS) {
-      return "ca-app-pub-4641579323652872~3139994033";
+      return "ca-app-pub-7353181874904121~9156964823";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -13,9 +13,9 @@ class AdManager {
 
   static String get bannerAdUnitId_HomePage {
     if (Platform.isAndroid) {
-      return "ca-app-pub-4641579323652872/9600287144";
+      return "ca-app-pub-7353181874904121/4076044449";
     } else if (Platform.isIOS) {
-      return "ca-app-pub-4641579323652872/9600287144";
+      return "ca-app-pub-7353181874904121/4076044449";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -23,9 +23,9 @@ class AdManager {
 
   static String get bannerAdUnitId_Subcategories {
     if (Platform.isAndroid) {
-      return "ca-app-pub-4641579323652872/4427851510";
+      return "ca-app-pub-7353181874904121/6107311413";
     } else if (Platform.isIOS) {
-      return "ca-app-pub-4641579323652872/4427851510";
+      return "ca-app-pub-7353181874904121/6107311413";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -33,9 +33,9 @@ class AdManager {
 
   static String get bannerAdUnitId_Tags {
     if (Platform.isAndroid) {
-      return "ca-app-pub-4641579323652872/7660519515";
+      return "ca-app-pub-7353181874904121/1278474804";
     } else if (Platform.isIOS) {
-      return "ca-app-pub-4641579323652872/7660519515";
+      return "ca-app-pub-7353181874904121/1278474804";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -43,9 +43,9 @@ class AdManager {
 
   static String get interstitialAdUnitId {
     if (Platform.isAndroid) {
-      return "ca-app-pub-4641579323652872/7245941767";
+      return "ca-app-pub-7353181874904121/5197554425";
     } else if (Platform.isIOS) {
-      return "ca-app-pub-4641579323652872/7245941767";
+      return "ca-app-pub-7353181874904121/5197554425";
     } else {
       throw new UnsupportedError("Unsupported platform");
     }

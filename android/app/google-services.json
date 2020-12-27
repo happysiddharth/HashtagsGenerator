@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219230583677",
+    "firebase_url": "https://hashtags-generator-94d3d-default-rtdb.firebaseio.com",
+    "project_id": "hashtags-generator-94d3d",
+    "storage_bucket": "hashtags-generator-94d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219230583677:android:7376536afee40734b72a14",
+        "android_client_info": {
+          "package_name": "com.siddharthkaushik1999.hashtagsgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219230583677-odjidqpm6vqcqjqeb5n4g5b2d0b1ba6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34CSb5TkIXUtYD8fQhWNuQB034Rdzo0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219230583677-odjidqpm6vqcqjqeb5n4g5b2d0b1ba6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
